@@ -1,4 +1,4 @@
-# AtividadeBlog20250310
+# Angular Blog
 
 A basic project for training angular's fundamental concepts in conjunction with Bootstrap framework.
 
